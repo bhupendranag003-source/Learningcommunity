@@ -1,0 +1,99 @@
+‎<!DOCTYPE html>
+‎<html lang="en">
+‎<head>
+‎<meta charset="UTF-8">
+‎<meta name="viewport" content="width=device-width, initial-scale=1.0">
+‎<title>Jalwa VIP Prediction</title>
+‎
+‎<style>
+‎body {
+‎  margin: 0;
+‎  font-family: 'Poppins', sans-serif;
+‎  background: radial-gradient(circle at top, #111, #000);
+‎  color: white;
+‎  text-align: center;
+‎}
+‎
+‎.container {
+‎  padding: 60px 20px;
+‎}
+‎
+‎.logo {
+‎  width: 130px;
+‎  border-radius: 50%;
+‎  box-shadow: 0 0 30px gold, 0 0 60px orange;
+‎  animation: glow 2s infinite alternate;
+‎}
+‎
+‎@keyframes glow {
+‎  from { box-shadow: 0 0 20px gold; }
+‎  to { box-shadow: 0 0 50px orange; }
+‎}
+‎
+‎h1 {
+‎  margin-top: 25px;
+‎  font-size: 30px;
+‎  font-weight: bold;
+‎  letter-spacing: 1px;
+‎}
+‎
+‎.subtitle {
+‎  margin-top: 10px;
+‎  color: #ddd;
+‎  font-size: 16px;
+‎}
+‎
+‎.btn {
+‎  display: inline-block;
+‎  margin-top: 35px;
+‎  padding: 16px 35px;
+‎  background: linear-gradient(45deg, gold, orange);
+‎  color: black;
+‎  font-weight: bold;
+‎  border-radius: 50px;
+‎  text-decoration: none;
+‎  font-size: 16px;
+‎  box-shadow: 0 0 20px gold;
+‎  transition: 0.3s;
+‎}
+‎
+‎.btn:hover {
+‎  transform: scale(1.08);
+‎  box-shadow: 0 0 40px orange;
+‎}
+‎
+‎.info {
+‎  margin-top: 25px;
+‎  color: #ccc;
+‎  font-size: 14px;
+‎}
+‎
+‎.footer {
+‎  margin-top: 15px;
+‎  font-size: 13px;
+‎  color: #888;
+‎}
+‎</style>
+‎
+‎</head>
+‎
+‎<body>
+‎
+‎<div class="container">
+‎
+‎  <img src="logo.png" class="logo">
+‎
+‎  <h1>JALWA VIP PREDICTION 🔥</h1>
+‎
+‎  <p class="subtitle">Join the original channel for daily updates</p>
+‎
+‎  <a href="https://t.me/+ga2pl9WmIzViNDYx" class="btn">🚀 Join Telegram Now</a>
+‎
+‎  <p class="info">⭐ Trusted by 1,000+ members Across India</p>
+‎
+‎  <p class="footer">100% FREE | NO SPAM | INSTANT UPDATES</p>
+‎
+‎</div>
+‎
+‎</body>
+‎</html>
